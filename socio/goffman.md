@@ -13,6 +13,7 @@
  > Ne pas perdre la face.
 
  - Regles de tenue
+ - Rite d'évitement
 
 ## La face
-La face est la valeur social positive d'un individu
+Selon Erving Goffman, la face est la valeur sociale positive qu'une personne revendique effectivement à travers une ligne d'action que les autres supposent qu'elle a adoptée au cours d'un contact particulier (Les Rites d'interaction 1967).

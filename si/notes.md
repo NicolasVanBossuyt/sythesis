@@ -3,7 +3,7 @@
  - Sont liè a une organisation
  - Ce sont des vehicule des entité de l'oragination.
  - ils son constitué de l'ensemnle des ressources et permets de collecter, stocker, traiter et communiquer des information
- - ils permet d'accompagner, d'automatiser et de ématerialiser quasiment toutes les operation des oragination.
+ - ils permet d'accompagner, d'automatiser et de dématerialiser quasiment toutes les operation des oragination.
 
 ## Les 3 ages de l'informatique
  - 60-80 Production destiné aux entreprise / aministration local
@@ -12,7 +12,7 @@
 
 ## Unité du si
  - BD : Base de donnée
- - SGBD: system  de gestrion de base de donnée
+ - SGBD: system  de gestion de base de donnée
  - Groupware: application qui comporte :
   - gestion d'agenda,
   - messagerie
@@ -36,3 +36,11 @@
 
  - SCM : Gestion de la chaîne logistique
   - Supply chain management
+
+## Architecture des SI
+
+## Le SQL
+
+### DDL Data Definition Language
+
+### DML Data Manipulation Language
